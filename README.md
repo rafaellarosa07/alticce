@@ -4,9 +4,9 @@
 
 RUN THE APPLICATION:
 
- 1 - GO TO PROJECT ROOT DIRECTORY 
- 2 - sudo docker build -t alticce:latest .
- 3 - sudo docker run -p 8080:8080 alticce
+ 1 - GO TO PROJECT ROOT DIRECTORY        
+ 2 - sudo docker build -t alticce:latest .       
+ 3 - sudo docker run -p 8080:8080 alticce         
 
 
 
