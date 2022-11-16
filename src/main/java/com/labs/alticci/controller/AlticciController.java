@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.*;
 
 
 @RestController
-@RequestMapping("/altice")
+@RequestMapping("/alticce")
 public class AlticciController {
 
     private AlticciService alticciService;
